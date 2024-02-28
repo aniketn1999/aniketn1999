@@ -7,9 +7,7 @@
 - 👯 I’m looking to collaborate on **frontend reactjs projects**
 
 - 📫 How to reach me **aniketnagrale999@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w-3ej3LmjFrsLw3d1qcZn9PyQJkZVEJl/view?usp=drive_link](https://drive.google.com/file/d/1w-3ej3LmjFrsLw3d1qcZn9PyQJkZVEJl/view?usp=drive_link)
-
+  
 - ⚡ Fun fact **I am cool and sarcastic**
 
 <h3 align="left">Connect with me:</h3>
